@@ -23,5 +23,23 @@ dikarenakan belum ada ParenAgus di remote github maka kita tambahkan dengan cara
 ![...](images/7.2.png)
 
 THREE WAY MERGING
-1. Memodifikasi file
+1. Memodifikasi file di dalam ChildAgus
+![...](images/1a.png)
+melakukan modifikasi file pada ChildAgus melakukan add,commit dan push
+![...](images/2a.png)
+log nya
+2. melakukan pull
+![...](images/3a.png)
+kita mencoba melakukan pull dari ParentAgus ke ChildAgus dan menemukan konflik
+3. tampilan vs code
+akan menunjukan tindakan yang kita pilih atas perubahan tersebut
+4. Menambahkan setelah merging
+![...](images/4a.png)
+setelah memilih tindakan yang ada sekarang kita add, dan comit serta push
+5. Hasil log
+![...](images/5a.png)
+6. Membuat pull request
+![...](images/6a.png)
+![...](images/7a.png)
+7. git pull diterminal
 
