@@ -1,3 +1,6 @@
+heloo
+haii
+holaaa
 Fast-Forward 
 1. Membuat Branch
 ![Membuat branch](images/1.png)
