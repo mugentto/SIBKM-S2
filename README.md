@@ -22,3 +22,6 @@ dikarenakan belum ada ParenAgus di remote github maka kita tambahkan dengan cara
 ![...](images/7.1.png)
 ![...](images/7.2.png)
 
+THREE WAY MERGING
+1. 
+
